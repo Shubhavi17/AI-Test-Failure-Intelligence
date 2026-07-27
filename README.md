@@ -53,7 +53,14 @@ python -m streamlit run dashboard.py
 
 ## Screenshots
 
-(Add screenshots here - dashboard and Extent Report)
+### Streamlit Dashboard
+<img width="1912" height="968" alt="Screenshot 2026-07-27 220629" src="https://github.com/user-attachments/assets/63df2581-e0c7-41ba-9248-14630e3f5a62" />
+<img width="1908" height="962" alt="Screenshot 2026-07-27 220641" src="https://github.com/user-attachments/assets/070841b8-373b-449d-ba53-624125c755a3" />
+
+### Extent Report (Failure with Screenshot)
+<img width="1905" height="897" alt="Screenshot 2026-07-27 220824" src="https://github.com/user-attachments/assets/38eeff89-4b83-4186-8323-b3fd236df95b" />
+<img width="1917" height="912" alt="Screenshot 2026-07-27 220831" src="https://github.com/user-attachments/assets/a901be2c-b610-4553-a418-f95f3bf31544" />
+
 
 ## Future Improvements
 
