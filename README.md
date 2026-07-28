@@ -66,3 +66,8 @@ python -m streamlit run dashboard.py
 - Store results in MySQL instead of CSV for larger-scale history
 - Add a true ML-based failure classifier trained on historical failure data
 - Add Slack/email notifications on test failure
+
+## Author
+
+Shubhavi M
+[GitHub](https://github.com/Shubhavi17)
