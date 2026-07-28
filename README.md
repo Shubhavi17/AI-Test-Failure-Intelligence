@@ -53,7 +53,13 @@ python -m streamlit run dashboard.py
 
 ## Screenshots
 
-(Add screenshots here - dashboard and Extent Report)
+### Streamlit Dashboard
+<img src="docs/dashboard.png" width="700">
+<img src="docs/dashboard2.png" width="700">
+
+### Extent Report
+<img src="docs/extent-report.png" width="700">
+<img src="docs/extent-report1.png" width="700">
 
 ## Future Improvements
 
